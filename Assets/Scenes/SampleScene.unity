@@ -270,7 +270,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MAX_X_DISTANCE: 7
-  MAX_Z_DISTANCE: 5
+  MAX_Z_DISTANCE: 4
   FOLLOW_SPEED: 45
   followee: {fileID: 770943054}
 --- !u!1 &410087039
